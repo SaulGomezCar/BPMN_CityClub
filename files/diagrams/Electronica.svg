@@ -152,9 +152,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 419, 79)" id="gfx-d2094764-6b14-4cab-9579-a2555559653b" display="block" class="djs-element djs-shape" data-element-id="d2094764-6b14-4cab-9579-a2555559653b">
+    <g transform="matrix(1, 0, 0, 1, 419, 79)" id="gfx-23fe355c-10b2-436e-acc1-5fed5d3ea578" display="block" class="djs-element djs-shape" data-element-id="23fe355c-10b2-436e-acc1-5fed5d3ea578">
       <g class="djs-visual">
-        <rect x="0" y="0" width="122" height="66" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="122" height="66" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="122" height="61" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="12.07702" y="14.75">¿El producto es muy </tspan>
@@ -328,9 +328,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 476.5, 136)" id="gfx-60594463-a54e-42f1-ac11-c39feaffba6c" display="block" class="djs-element djs-shape" data-element-id="60594463-a54e-42f1-ac11-c39feaffba6c">
+    <g transform="matrix(1, 0, 0, 1, 476, 136)" id="gfx-fa0aa48d-7a5f-4589-bd02-bedbf04d931e" display="block" class="djs-element djs-shape" data-element-id="fa0aa48d-7a5f-4589-bd02-bedbf04d931e">
       <g class="djs-visual">
-        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="40.89306" y="14.75">Si</tspan>
@@ -354,9 +354,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 474, 209)" id="gfx-b83a5182-b9d8-4d7f-9485-e01a1db249a2" display="block" class="djs-element djs-shape" data-element-id="b83a5182-b9d8-4d7f-9485-e01a1db249a2">
+    <g transform="matrix(1, 0, 0, 1, 474, 209)" id="gfx-99c69a90-66c1-4562-a7a4-0a5bde21373a" display="block" class="djs-element djs-shape" data-element-id="99c69a90-66c1-4562-a7a4-0a5bde21373a">
       <g class="djs-visual">
-        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="37.91655" y="14.75">No</tspan>

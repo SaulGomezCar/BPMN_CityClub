@@ -146,9 +146,9 @@
     </g>
   </g>
   <g class="djs-group">
-    <g transform="matrix(1, 0, 0, 1, 593, 373)" id="gfx-d85d78b0-d807-464b-9741-9cb4392c9360" display="block" class="djs-element djs-shape" data-element-id="d85d78b0-d807-464b-9741-9cb4392c9360">
+    <g transform="matrix(1, 0, 0, 1, 593, 373)" id="gfx-5af49590-ee5e-4fb5-914f-776b25cc0188" display="block" class="djs-element djs-shape" data-element-id="5af49590-ee5e-4fb5-914f-776b25cc0188">
       <g class="djs-visual">
-        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:transparent;stroke:transparent;" />
+        <rect x="0" y="0" width="90" height="30" fill-opacity="0" stroke-opacity="0" style="fill:#FFFFFF;stroke:transparent;" />
         <svg width="90" height="25" class="djs-svg-text">
           <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
             <tspan x="7.946724" y="14.75">Realizar el pago</tspan>

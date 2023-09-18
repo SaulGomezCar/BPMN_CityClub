@@ -204,6 +204,22 @@
     </g>
   </g>
   <g class="djs-group">
+    <g transform="matrix(1, 0, 0, 1, 220, 193)" id="gfx-53f228b4-d7e0-44c1-be54-9344c70c57c7" display="block" class="djs-element djs-shape" data-element-id="53f228b4-d7e0-44c1-be54-9344c70c57c7">
+      <g class="djs-visual">
+        <g>
+          <rect x="0" y="0" width="100" height="60" class="" style="fill:#D5D5D5;" />
+          <path d="M33.33333 0 L0 0 L0 60 L33.33333 60" stroke-width="0.4px" shape-rendering="crispEdges" fill-opacity="0" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+      <svg width="100" height="60" class="djs-svg-text">
+        <text font-family="'Segoe UI'" font-size="10.6252px" font-style="normal" font-weight="normal" lineHeight="1.2" textDirection="0" textAlign="center" class="djs-label" style="fill:black;">
+          <tspan x="7.787117" y="26.75">El cajero recibe la </tspan>
+          <tspan x="33.93781" y="39.75">tarjeta.</tspan>
+        </text>
+      </svg>
+    </g>
+  </g>
+  <g class="djs-group">
     <g id="gfx-a2455866-a658-4573-8bae-4fe0e3170260" display="block" class="djs-element djs-connection" data-element-id="a2455866-a658-4573-8bae-4fe0e3170260">
       <g class="djs-visual">
         <g>
@@ -339,6 +355,20 @@
             </marker>
           </defs>
           <path d="M644 145 L644 193" stroke-width="1.5px" stroke-linejoin="round" stroke-dasharray="2 5" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="djs-group">
+    <g id="gfx-461ba10a-3d73-43f8-8f82-7c2a00f82c11" display="block" class="djs-element djs-connection" data-element-id="461ba10a-3d73-43f8-8f82-7c2a00f82c11">
+      <g class="djs-visual">
+        <g>
+          <defs>
+            <marker refX="5.5" refY="4" orient="auto" markerWidth="10" markerHeight="8" id="arrowAssociation461ba10a-3d73-43f8-8f82-7c2a00f82c11">
+              <path d="M0 0 L4.5 4 L0 8" stroke-width="0.7px" stroke-dasharray="0" style="fill:none;stroke:black;" />
+            </marker>
+          </defs>
+          <path d="M270 145 L270 193" stroke-width="1.5px" stroke-linejoin="round" stroke-dasharray="2 5" shape-rendering="crispEdges" fill-opacity="0" class="" style="fill:transparent;stroke:black;" />
         </g>
       </g>
     </g>
